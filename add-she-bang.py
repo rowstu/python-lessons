@@ -1,6 +1,6 @@
 import os
 
-# add missing to shebangs to any scripts in the scripts directory
+# add missing shebangs to any scripts in the scripts directory
 
 directory = os.path.expanduser('~/scripts')
 
